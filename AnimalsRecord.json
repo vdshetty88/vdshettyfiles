@@ -1,0 +1,53 @@
+ {"AnimalsLibrary": [
+    {
+        "id" : 1,
+        "AnimalType": "Monkey",
+        "Description": "A Monkey has a very long tail and likes bananas."
+    },
+    {
+        "id" : 2,
+        "AnimalType": "Lion",
+        "Description": "A Lion is the king of the jungle."
+    },
+    {
+        "id" : 3,
+        "AnimalType": "Dog",
+        "Description": "A Dog is a man's best friend, and has been domesticated from wolves!"
+    },
+    {
+        "id" : 4,
+        "AnimalType": "Cat",
+        "Description": "Cats are quiet animals that are rumored to have 9 lives!"
+    },
+    {
+        "id" : 5,
+        "AnimalType": "Fish",
+        "Description": "A Fish lives in the water, and has gills instead of lungs."
+    },
+    {
+        "id" : 6,
+        "AnimalType": "Shark",
+        "Description": "Sharks are much larger predatory fish, and are the kings of the ocean."
+    },
+    {
+        "id" : 7,
+        "AnimalType": "Mouse",
+        "Description": "A mouse is a very small rodent that enjoys eating cheese."
+    },
+    {
+        "id" : 8,
+        "AnimalType": "Turtle",
+        "Description": "Turtles are very slow animals that have hard shells protecting them."
+    },
+    {
+        "id" : 9,
+        "AnimalType": "Snake",
+        "Description": "Snakes are long and narrow animals that can be venomous."
+    },
+    {
+        "id" : 10,
+        "AnimalType": "Kangaroo",
+        "Description": "Kangaroos live in Australia, and have power legs to jump."
+    }
+]
+}
